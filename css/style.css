@@ -1,0 +1,12 @@
+.spacer{
+	margin-top: 20px;
+}
+.panel-heading{
+	font-weight: bold;
+}
+#map{
+	height: 400px;
+	position: relative; 
+	overflow: hidden;
+	border: 3px #2874a6 solid;
+}
